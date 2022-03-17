@@ -39,21 +39,12 @@ $strName = $_SESSION['name'];
       <h1>
         <a href="task.php"><img class="logo" src="images/logo_ken.png" alt="自己研さん　ホーム" /></a>
       </h1>
-      <!--
-        <nav>
-          <ul class="main-nav">
-            <li><a href="#">...</a></li>
-          </ul>
-        </nav>
-        -->
     </header>
 
     <div class="wrapper">
       <h2 class="page-title"></h2>
     </div>
-    <!-- /.wrapper -->
   </div>
-  <!-- /#task -->
 
   <div class="task-contents wrapper">
     <article>
@@ -79,7 +70,6 @@ $strName = $_SESSION['name'];
       </ul>
     </aside>
   </div>
-  <!-- /.task-contents -->
 </body>
 
 </html>

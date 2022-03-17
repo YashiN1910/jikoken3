@@ -49,9 +49,7 @@
         <input type="submit" class="button" value="登録" />
       </form>
     </div>
-    <!-- /.wrapper -->
   </div>
-  <!-- /#contact -->
 </body>
 
 </html>

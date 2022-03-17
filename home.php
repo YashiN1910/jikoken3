@@ -36,9 +36,7 @@
       <a class="button" href="signup.php">新規登録</a>
       <a class="button" href="login.php">ログイン</a>
     </div>
-    <!-- /.home-content -->
   </div>
-  <!-- /#home -->
 </body>
 
 </html>

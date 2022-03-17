@@ -79,7 +79,6 @@ $strName = $_SESSION['name'];
       </ul>
     </aside>
   </div>
-  <!-- /.task-contents -->
 </body>
 
 </html>

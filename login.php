@@ -45,9 +45,7 @@
         <input type="submit" class="button" value="ログイン" />
       </form>
     </div>
-    <!-- /.wrapper -->
   </div>
-  <!-- /#contact -->
 </body>
 
 </html>

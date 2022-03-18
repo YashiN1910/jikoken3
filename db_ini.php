@@ -5,8 +5,8 @@
   //ホストの情報
   $host = "localhost";
   //ユーザ情報
-  $user = "koyama";
+  $user = "xxxxx";
   //パスワード情報
-  $pass = "koyama";
+  $pass = "xxxxx";
   //データベースの名前
-  $db_name = "hewdb";
+  $db_name = "xxxxx";

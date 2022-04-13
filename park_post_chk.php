@@ -33,7 +33,7 @@ if ($db_link == false) {
 $db_flg = mysqli_select_db($db_link, $db_name);
 
 if ($db_flg == false) {
-    print "データベース接続に失敗しました。";
+    print "データベース接続が失敗しました。";
     exit;
 }
 
